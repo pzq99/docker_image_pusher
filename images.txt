@@ -1,5 +1,4 @@
 alpine
-python:alpine3.18.2
 kasmweb/nginx:1.25.3
 xhofe/alist:latest
 xiaoyaliu/alist:latest
