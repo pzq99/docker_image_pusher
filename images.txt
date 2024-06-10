@@ -1,3 +1,1 @@
-xiaoyaliu/glue
-ddsderek/xiaoya-emd
-alpine:3.18.6
+dockerproxy.com/library/alpine:3.18.2
