@@ -1,1 +1,4 @@
-xhofe/alist
+--platform=xiaoya xiaoyaliu/alist
+--platform=xiaoya xiaoyaliu/glue
+--platform=xiaoya ddsderek/xiaoya-emd
+--platform=old_alp alpine:3.18.6
