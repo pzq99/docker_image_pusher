@@ -1,1 +1,1 @@
-jeessy/ddns-go:v6.6.1
+gdy666/lucky:2.9.0
