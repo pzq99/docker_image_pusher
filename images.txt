@@ -1,1 +1,1 @@
-gdy666/lucky:2.9.0
+amilys/embyserver
